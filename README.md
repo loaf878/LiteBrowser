@@ -24,6 +24,7 @@ LiteBrowser is designed to deliver a clean, lightweight and customizable browsin
 - .NET 10
 - Windows Forms
 - Microsoft Edge WebView2
+- Open Code
 
 ##  Platform
 Windows
