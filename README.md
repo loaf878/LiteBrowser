@@ -1,6 +1,6 @@
-# LiteBrowser
+# LiteBrowser 
 
-A lightweight Windows desktop web browser built with .NET 10 and Microsoft Edge WebView2.
+A lightweight Windows desktop web browser built with .NET 10 and Microsoft Edge WebView2 Using Open Code.
 
 LiteBrowser is designed to deliver a clean, lightweight and customizable browsing experience while keeping memory usage low.
 
