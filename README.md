@@ -4,7 +4,7 @@ A lightweight Windows desktop web browser built with .NET 10 and Microsoft Edge 
 
 LiteBrowser is designed to deliver a clean, lightweight and customizable browsing experience while keeping memory usage low.
 
-## 🚀 Key Features
+##  Key Features
 
 - **Ultra-lightweight memory usage** – Uses approximately 20 MB of RAM with 10 tabs open (based on your reported test).
 - Custom browser interface
@@ -20,12 +20,12 @@ LiteBrowser is designed to deliver a clean, lightweight and customizable browsin
 - Brave browser data import
 - Browser extension support
 
-## ⚙️ Technology
+##  Technology
 - .NET 10
 - Windows Forms
 - Microsoft Edge WebView2
 
-## 💻 Platform
+##  Platform
 Windows
 
 ## 🎯 Goal
