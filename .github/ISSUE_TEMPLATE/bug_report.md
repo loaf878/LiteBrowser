@@ -1,9 +1,4 @@
----
 
-about: Create a report to help us improve
-'
-
----
 
 #  Report a Bug in LiteBrowser
 
