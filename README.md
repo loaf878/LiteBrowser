@@ -6,7 +6,7 @@ LiteBrowser is designed to deliver a clean, lightweight and customizable browsin
 
 ##  Key Features
 
-- **Ultra-lightweight memory usage** – Uses approximately 20 MB of RAM with 10 tabs open (based on your reported test).
+- **Ultra-lightweight memory usage** – Uses approximately 20 MB of RAM with 10 tabs open (based on a test i done).
 - Custom browser interface
 - Multi-tab browsing
 - Bookmark management
